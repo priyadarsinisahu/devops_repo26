@@ -9,3 +9,5 @@ read_by_argument.sh  :: User input as arguments
 
 check_number.sh  ::  conditions (if....elseif.....else)
 
+.........
+
